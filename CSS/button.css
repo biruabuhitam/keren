@@ -1,0 +1,13 @@
+.b4_i{
+    
+    margin-bottom: 2px;;
+    width: 90px;
+    height: 35px;
+    margin-top: auto;
+    border:none;
+    border:solid 2px white;
+    border-radius: 5px;
+    background-color: #e7e7e7; 
+    color: black;
+    font-size: 1em;
+  }
